@@ -1,3 +1,3 @@
-package services
+package query_go
 
 const Source = "local"
